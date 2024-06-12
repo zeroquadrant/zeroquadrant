@@ -17,7 +17,7 @@
 ![](https://img.shields.io/badge/心情-和她-blue)
 ![](https://img.shields.io/badge/澜-我-green)
 
-![背景](image/背景.jpg)
+![背景](image/人物.jpg)
 
 </div>
 
