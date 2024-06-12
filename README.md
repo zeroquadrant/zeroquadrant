@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/性格-内向-pink) 
 ![](https://img.shields.io/badge/爱好-孤独-green)
 
+![背景](image/背景.jpg)
+
 </div>
 
-![头像](image/背景.jpg)
