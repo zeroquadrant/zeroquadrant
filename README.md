@@ -6,9 +6,10 @@
 
 ![](https://img.shields.io/badge/不想-学习-yellow) 
 ![](https://img.shields.io/badge/性格-内向-pink) 
+</br>
 ![](https://img.shields.io/badge/爱好-孤独-green)
 ![](https://img.shields.io/badge/心情-和她-green)
-![](https://img.shields.io/badge/爱情-孤独-green)
+![](https://img.shields.io/badge/澜-我-green)
 
 ![背景](image/背景.jpg)
 
