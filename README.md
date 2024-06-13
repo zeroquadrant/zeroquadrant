@@ -30,7 +30,7 @@
 <br/>
 
 <!-- https://github.com/tandpfun/skill-icons -->
-<!--<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" /> -->
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=dark" />
 </p>
 
 <!-- https://github.com/badges/shields -->
